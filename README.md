@@ -1,2 +1,2 @@
 # plane-prototype-1
-Quiz challenge 
+Quiz 1 challenge 
